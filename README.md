@@ -13,8 +13,7 @@ sinta-se a vontade para abrir a porta e navegar pelo trabalho que será construi
 sobre o mesmo tema.
 
 # Competências e habilidades
-  Meu enfoque de estudos está em desenvolver habilidades de desenvolvimento de Aplicações Web e WebSites utilizando da plataforma .NET com as seguintes tecnologias, assim como também colocalas em
-prática real com projetos desenvolvidos:
+  Meu enfoque de estudos está em desenvolver habilidades de desenvolvimento de Aplicações Web e WebSites utilizando da plataforma .NET com as seguintes tecnologias, assim como também coloca-las em prática real com projetos desenvolvidos:
   
 ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) 
 ![Javascript](https://skillicons.dev/icons?i=javascript) ![Git](https://skillicons.dev/icons?i=git) ![github](https://skillicons.dev/icons?i=github) ![Mysql](https://skillicons.dev/icons?i=mysql)
