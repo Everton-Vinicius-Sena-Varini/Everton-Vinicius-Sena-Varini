@@ -13,12 +13,13 @@ sinta-se a vontade para abrir a porta e navegar pelo trabalho que será construi
 criando compilando meus estudos em séries de artigos no linkedln, sinta-se a vontade e livre para acompanhar os conteúdos quando começarem a ser publicados por grupos de estudos.
 
 # Competências e habilidades
-  Meu enfoque de estudos está em desenvolver habilidades de desenvolvimento de Aplicações Web e WebSites utilizando da plataforma .NET com as seguintes técnologias, assim como também colocas em
+  Meu enfoque de estudos está em desenvolver habilidades de desenvolvimento de Aplicações Web e WebSites utilizando da plataforma .NET com as seguintes técnologias, assim como também colocalas em
 prática real com projetos desenvolvidos:
   
 ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) 
 ![Javascript](https://skillicons.dev/icons?i=javascript) ![Git](https://skillicons.dev/icons?i=git) ![github](https://skillicons.dev/icons?i=github) ![Mysql](https://skillicons.dev/icons?i=mysql)
-![Rider](https://skillicons.dev/icons?i=rider)
+![Rider](https://skillicons.dev/icons?i=rider) ![Bash](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux) ![Apache](https://skillicons.dev/icons?i=nginx) 
+![Markdowm](https://skillicons.dev/icons?i=markdown)
 
 # Contatos
 
