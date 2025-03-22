@@ -9,8 +9,8 @@ suas vozes sejam ativas na Web. Se fazendo ouvir, não apenas escutar.
 
 # Porta de entrada
   Agora que sabe quem sou, o que me levou a escrever esse documento/porta de entrada ao meu portfólio, assim como também o que motiva e me motivou a dar os primeiros passas nesse rumo de carreira,
-sinta-se a vontade para abrir a porta e navegar pelo trabalho que será construido daqui em diante, assim como também dar os seus "Cents" ou "Dolars" na conta de XP desse que voz fala. Também estarei
-criando/compilando meus estudos em séries de artigos no linkedln, sinta-se a vontade e livre para acompanhar os conteúdos quando começarem a ser publicados por séries de agrupados estudos.
+sinta-se a vontade para abrir a porta e navegar pelo trabalho que será construido daqui em diante, assim como também dar os seus "Cents" ou "Dolars" na conta de XP desse que voz fala. Também estarei criando/compilando meus estudos em séries de artigos no linkedln, sinta-se a vontade e livre para acompanhar os conteúdos quando começarem a ser publicados por séries de estudos agrupados
+sobre o mesmo tema.
 
 # Competências e habilidades
   Meu enfoque de estudos está em desenvolver habilidades de desenvolvimento de Aplicações Web e WebSites utilizando da plataforma .NET com as seguintes tecnologias, assim como também colocalas em
