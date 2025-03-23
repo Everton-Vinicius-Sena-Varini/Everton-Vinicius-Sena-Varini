@@ -22,6 +22,6 @@ sobre o mesmo tema.
 
 # Contatos
 
-[evertonvinicius.github.portfolio@gmail.com](mailto:evertonvinicius.github.portfolio@gmail.com) [linkedin](https://www.linkedin.com/in/everton-v-s-varine)
+[evertonvinicius.github.portfolio@gmail.com](mailto:evertonvinicius.github.portfolio@gmail.com) | [linkedin](https://www.linkedin.com/in/everton-v-s-varine)
 
 
