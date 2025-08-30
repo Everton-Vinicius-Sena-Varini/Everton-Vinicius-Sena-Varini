@@ -11,7 +11,7 @@ Essenciais:
   
 ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) 
 ![Javascript](https://skillicons.dev/icons?i=javascript) ![Git](https://skillicons.dev/icons?i=git) ![github](https://skillicons.dev/icons?i=github) ![Mysql](https://skillicons.dev/icons?i=mysql)
-![Bash](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux) ![Ningx](https://skillicons.dev/icons?i=nginx)  ![Markdowm](https://skillicons.dev/icons?i=markdown) ![WebStorm](https://skillicons.dev/icons?i=visualstudiocode) ![React](https://skillicons.dev/icons?i=react) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Sass](https://skillicons.dev/icons?i=sass) ![Npm](https://skillicons.dev/icons?i=npm) 
+![Bash](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux) ![Ningx](https://skillicons.dev/icons?i=nginx)  ![Markdowm](https://skillicons.dev/icons?i=markdown) ![WebStorm](https://skillicons.dev/icons?i=vscode) ![React](https://skillicons.dev/icons?i=react) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Sass](https://skillicons.dev/icons?i=sass) ![Npm](https://skillicons.dev/icons?i=npm) 
 
 Em perspectiva futura:
 
